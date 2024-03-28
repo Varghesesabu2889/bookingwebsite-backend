@@ -1,0 +1,63 @@
+ [
+    {
+      "title": "Ajanta Caves",
+      "city": "Aurangabad",
+      "address": "Ajanta, Maharashtra",
+      "distance": 50,
+      "price": 25000,
+      "maxGroupSize": 20,
+      "desc": "Ajanta Caves are ancient Buddhist caves with exquisite paintings and sculptures, dating back to the 2nd century BCE.",
+      "photo": "/tour-images/ajanta-caves.jpg"
+    },
+    {
+      "title": "Khajuraho Group of Monuments",
+      "city": "Khajuraho",
+      "address": "Khajuraho, Madhya Pradesh",
+      "distance": 40,
+      "price": 35000,
+      "maxGroupSize": 15,
+      "desc": "Khajuraho Group of Monuments is a UNESCO World Heritage Site known for its intricately carved temples depicting human and divine forms.",
+      "photo": "/tour-images/khajuraho-temples.jpg"
+    },
+    {
+      "title": "Nanda Devi and Valley of Flowers National Parks",
+      "city": "Chamoli",
+      "address": "Chamoli District, Uttarakhand",
+      "distance": 80,
+      "price": 42000,
+      "maxGroupSize": 25,
+      "desc": "Nanda Devi and Valley of Flowers National Parks together form a UNESCO World Heritage Site, showcasing stunning alpine landscapes and biodiversity.",
+      "photo": "/tour-images/nanda-devi-valley-of-flowers.jpg"
+    },
+    {
+      "title": "Lonar Crater Lake",
+      "city": "Lonar",
+      "address": "Lonar, Maharashtra",
+      "distance": 60,
+      "price": 30000,
+      "maxGroupSize": 18,
+      "desc": "Lonar Crater Lake is a unique meteorite impact crater lake, surrounded by lush greenery and geological marvels.",
+      "photo": "/tour-images/lonar-crater-lake.jpg"
+    },
+    {
+      "title": "Chola Temples",
+      "city": "Thanjavur",
+      "address": "Thanjavur, Tamil Nadu",
+      "distance": 70,
+      "price": 38000,
+      "maxGroupSize": 22,
+      "desc": "Chola Temples, including Brihadeeswarar Temple, are architectural marvels from the Chola dynasty, showcasing Dravidian temple architecture.",
+      "photo": "/tour-images/chola-temples.jpg"
+    },
+    {
+      "title": "Sanchi Stupa",
+      "city": "Sanchi",
+      "address": "Sanchi, Madhya Pradesh",
+      "distance": 55,
+      "price": 29000,
+      "maxGroupSize": 17,
+      "desc": "Sanchi Stupa is a Buddhist monument with intricately carved toranas (gateways) and stupas, representing ancient Indian art and architecture.",
+      "photo": "/tour-images/sanchi-stupa.jpg"
+    }
+  ]
+
